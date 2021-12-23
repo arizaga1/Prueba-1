@@ -4,5 +4,7 @@
  
  Excelente, borrare algo
 
-stoy queriendo aprender usando línea de comandos
+stoy queriendo aprender usando línea de comandos   
+
+Pero no puedo aun
 
